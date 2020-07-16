@@ -1,5 +1,7 @@
 Laut
 - Ikan Piranha
 - Ikan Salmon
+- Ikan Lele
+- Ikan Cupang
 Darat
 Udara

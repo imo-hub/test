@@ -3,5 +3,8 @@ Laut
 - Ikan Salmon
 - Ikan Paus
 - Ikan Hiu
+- Ikan Marlin
 Darat
+- Singa
+- Jerapah
 Udara
